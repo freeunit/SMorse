@@ -1,0 +1,6 @@
+--- keywords.txt ---
+SMorse	KEYWORD1
+dot	KEYWORD2
+dash	KEYWORD2
+MY_CONSTANT	LITERAL1
+---
